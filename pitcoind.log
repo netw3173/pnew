@@ -1,0 +1,30 @@
+2022-Nov-03 18:54:30.415828 INFO [daemon] pitcoin v1.1.1.1(0.1-g672625cee3)
+2022-Nov-03 18:54:30.416053 INFO [daemon] Module folder: ./pitcoind
+2022-Nov-03 18:54:30.417328 INFO [daemon] Initializing p2p server...
+2022-Nov-03 18:54:30.417522 INFO [node_server] Binding on 0.0.0.0:14796
+2022-Nov-03 18:54:30.417608 INFO [node_server] Net service binded on 0.0.0.0:14796
+2022-Nov-03 18:54:30.417658 INFO [node_server] Attempting to add IGD port mapping.
+2022-Nov-03 18:54:31.864903 INFO [node_server] Added IGD port mapping.
+2022-Nov-03 18:54:31.865071 INFO [daemon] P2p server initialized OK
+2022-Nov-03 18:54:31.865142 INFO [daemon] Initializing core...
+2022-Nov-03 18:54:31.865432 INFO [Blockchain] Blockchain not loaded, generating genesis block.
+2022-Nov-03 18:54:31.924204 INFO [Blockchain] Blockchain initialized. last block: 0, d3774.h17.m54.s31 time ago, current difficulty: 1
+2022-Nov-03 18:54:31.924290 INFO [daemon] Core initialized OK
+2022-Nov-03 18:54:31.924428 INFO [daemon] Starting core rpc server on address 127.0.0.1:25163
+2022-Nov-03 18:54:31.924520 INFO [daemon] Core rpc server started ok
+2022-Nov-03 18:54:31.924563 INFO [daemon] Starting p2p net loop...
+2022-Nov-03 18:54:31.924612 INFO [node_server] Starting node_server
+2022-Nov-03 18:54:32.657900 INFO [core] 
+2022-Nov-03 18:54:32.657900 INFO [core] **********************************************************************
+2022-Nov-03 18:54:32.657900 INFO [core] The daemon will start synchronizing with the network. It may take up to several hours.
+2022-Nov-03 18:54:32.657900 INFO [core] 
+2022-Nov-03 18:54:32.657900 INFO [core] You can set the level of process detailization* through "set_log <level>" command*, where <level> is between 0 (no details) and 4 (very verbose).
+2022-Nov-03 18:54:32.657900 INFO [core] 
+2022-Nov-03 18:54:32.657900 INFO [core] Use "help" command to see the list of available commands.
+2022-Nov-03 18:54:32.657900 INFO [core] 
+2022-Nov-03 18:54:32.657900 INFO [core] Note: in case you need to interrupt the process, use "exit" command. Otherwise, the current progress won't be saved.
+2022-Nov-03 18:54:32.657900 INFO [core] **********************************************************************
+2022-Nov-03 18:54:32.926994 INFO [protocol] [194.31.55.145:47046 INC] Sync data returned unknown top block: 0 -> 20456 [20456 blocks (2 days) behind] 
+2022-Nov-03 18:54:32.926994 INFO [protocol] SYNCHRONIZATION started
+2022-Nov-03 18:54:33.489000 INFO [protocol] [194.31.55.105:58438 INC] Sync data returned unknown top block: 0 -> 20456 [20456 blocks (2 days) behind] 
+2022-Nov-03 18:54:33.489000 INFO [protocol] SYNCHRONIZATION started
